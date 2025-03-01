@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-<p style='font-style: italic; text-align: center; font-size: 1.5em;'>\"Ob nicht Natur zuletzt sich doch ergründe?\"</p><p style='text-align: center; font-size: 1.2em;'>— Johann Wolfgang von Goethe</p>
+*Ob nicht Natur zuletzt sich doch ergründe?*  
+— Johann Wolfgang von Goethe
+
 
 Still under construction...
 
