@@ -9,8 +9,9 @@ redirect_from:
 ---
 
 
-*Ob nicht Natur zuletzt sich doch ergründe?*  
-— Johann Wolfgang von Goethe
+> *"Ob nicht Natur zuletzt sich doch ergründe?"*  
+> — Johann Wolfgang von Goethe
+
 
 
 Still under construction...
