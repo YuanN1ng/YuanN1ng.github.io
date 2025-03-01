@@ -14,5 +14,5 @@ redirect_from:
 
 
 
-Still under construction...
+The CV part is ready, while the other sections are still under construction...
 
