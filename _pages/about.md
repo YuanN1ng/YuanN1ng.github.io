@@ -12,7 +12,7 @@ redirect_from:
 > *"Ob nicht Natur zuletzt sich doch ergründe?"*  
 > — Johann Wolfgang von Goethe
 
-I am interested in the intersection of language and vision. What is the connection between them? Can we integrate them with other modalities to develop a vision foundation model that perceives, understands, and continually learns from reality, mainly through self-supervised learning, improving itself like a human child?
+I am interested in the intersection of language and vision. What is the connection between them? Can we integrate them with other modalities to develop a vision foundation model that perceives, understands, and continually learns from reality, mainly through self-supervised learning, improving itself like a human child? I hope to contribute to answering these questions in the future. 
 
 The CV part is ready, while the other sections are still under construction...
 
