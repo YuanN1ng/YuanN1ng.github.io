@@ -10,7 +10,7 @@ redirect_from:
 
 <p>
     <a href="/assets/Yuan Ning's CV.pdf" target="_blank">
-        <button style="padding: 10px 20px; font-size: 16px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;">
+        <button style="padding: 10px 20px; font-size: 16px; background-color: #007bff; background-color: #34C759; border: none; border-radius: 20px; cursor: pointer; transition: background-color 0.3s; ">
             View CV (PDF)
         </button>
     </a>
