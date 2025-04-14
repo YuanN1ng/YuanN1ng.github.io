@@ -13,7 +13,7 @@ redirect_from:
 > — Johann Wolfgang von Goethe
 
 
-I am interested in computer vision and the intersection of vision and language. 
+I am interested in Multi-modal Learning, especially the intersection of Vision and Language. 
 
 Before infants acquire language, they begin perceiving the world through vision. Throughout life, nearly half of the human brain is directly or indirectly engaged in processing visual information, making vision a natural starting point for intelligence. Similarly, language is what sets humans apart from other species—it enables abstract thinking, communication, and cultural accumulation, all of which play an essential role in visual understanding as well. 
 
