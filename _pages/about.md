@@ -15,10 +15,9 @@ redirect_from:
 
 I am interested in Multi-modal Learning, especially the intersection of Vision and Language. 
 
-Before infants acquire language, they begin perceiving the world through vision. Throughout life, nearly half of the human brain is directly or indirectly engaged in processing visual information, making vision a natural starting point for intelligence. Similarly, language is what sets humans apart from other species—it enables abstract thinking, communication, and cultural accumulation, all of which play an essential role in visual understanding as well. 
+Before infants acquire language, they begin perceiving the world through vision. Throughout life, nearly half of the human brain is directly or indirectly engaged in processing visual information, making vision a natural starting point for intelligence and language. In turn, language—what sets humans apart from other species—enables abstract thinking that moves beyond phenomena toward the laws.
+For models, however, raw visual information are weakly structured and overwhelmingly dense, making them too obscure to be observed as the initial substrate for building the understanding. By contrast, the linguistic information accumulated over millennia can be viewed as information that has been processed and compressed by humans, offering a more friendly starting point; hence the language modality has become the starting point of modern artificial intelligence (e.g., LLM).
 
-Based on these observations, I believe linguistic information can help computational models efficiently extract structured knowledge from the visual world. Thus, refining the interaction between vision and language to develop multimodal representations that better capture the full complexity of the visual world is one of the key directions to advancing model intelligence.
- 
+Based on these observations and thoughts, I believe that refining the interaction between vision and language is one of the key directions to advancing model's intelligence and understanding. 
 
-The CV part is ready, while the other sections are still under construction...
 
