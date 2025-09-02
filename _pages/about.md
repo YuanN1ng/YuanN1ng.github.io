@@ -13,12 +13,12 @@ redirect_from:
 > — Johann Wolfgang von Goethe
 
 
-I am interested in Multi-modal Learning, especially the intersection of Vision and Language. 
+I am interested in Multimodal Learning, especially the intersection of Vision and Language.
 
-Before infants acquire language, they begin perceiving the world through vision. Throughout life, nearly half of the human brain is directly or indirectly engaged in processing visual information, making vision a natural starting point for intelligence and language. In turn, language—what sets humans apart from other species—enables abstract thinking that moves beyond phenomena toward the laws.
+Before infants acquire language, they begin perceiving the world through vision, making vision a natural starting point for intelligence. In turn, language—what sets humans apart from other species—enables abstract thinking that moves from phenomena toward underlying laws.
 
-For models, however, raw visual information are weakly structured and overwhelmingly dense, making them too obscure to be observed as the initial substrate for building the understanding. By contrast, the linguistic information accumulated over millennia can be viewed as information that has been processed and compressed by humans, offering a more friendly starting point; hence the language modality has become the starting point of modern artificial intelligence (e.g., LLM).
+For models, however, raw visual information is weakly structured and overwhelmingly dense, making it too obscure to be observed as the initial substrate for building intelligence. By contrast, linguistic data accumulated over millennia can be seen as human-processed and compressed information, offering a friendlier starting point (as exemplified by LLMs). 
 
-Based on these observations and thoughts, I believe that refining the interaction between vision and language is one of the key directions to advancing model's intelligence and understanding. 
+Based on these observations, I believe that, although their learning have different starting points, refining vision–language interaction plays a key role in improving models’ intelligence—just as it does in human intelligence. Therefore, my goal is to strengthen vision–language interaction, thereby enhancing models’ understanding.
 
 
