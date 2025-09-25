@@ -9,7 +9,7 @@ redirect_from:
 
 *Gödel, Escher, Bach: An Eternal Golden Braid* (Douglas Hofstadter, 1979) profoundly shaped my decision to pursue artificial intelligence.
 
-One of my favorite sayings—used as the epigraph in Arthur Schopenhauer’s *The World as Will and Representation* (1819):
+One of my favorite sayings, which was used as the epigraph in Arthur Schopenhauer’s *The World as Will and Representation* (1819), is:
 
 > *“Ob nicht Natur zuletzt sich doch ergründe?”*  
 > — Johann Wolfgang von Goethe
