@@ -16,6 +16,6 @@ Before children acquire language, they experience the world primarily through vi
 
 Motivated by this, I believe that vision–language interaction is crucial for advancing models’ intelligence—just as it is for human intelligence. My goal is to design and refine this interaction to strengthen cross-modal alignment and improve models’ understanding.
 
-<p style="display:block;text-align:center;font-size:0.6rem;color:#6b7280;font-style:italic;margin-top:6rem;margin-bottom:0.5rem">
+<p style="display:block;text-align:center;font-size:0.6rem;color:#6b7280;font-style:italic;margin-top:10rem;margin-bottom:0.5rem">
   <em>Gödel, Escher, Bach: An Eternal Golden Braid</em> (Douglas Hofstadter, 1979) profoundly shaped my decision to pursue artificial intelligence.
 </p>
